@@ -2,7 +2,7 @@
 
 ## 🎯 What Was Converted
 
-**Original File**: `ahm2452_Merrill_hw3_9.ipynb` - A comprehensive Dividend Discount Model analysis for stock valuation
+**Original File**: `Merrill_hw3_9.ipynb` - A comprehensive Dividend Discount Model analysis for stock valuation
 
 **Converted To**: A modern, interactive Streamlit web application with enhanced features
 
